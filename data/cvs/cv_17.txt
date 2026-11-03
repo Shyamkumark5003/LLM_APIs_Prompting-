@@ -1,0 +1,25 @@
+Arjun Mehta  
+Mumbai  
+arjun.mehta@example.com | +91-9876543210  
+
+Backend Developer with five years of experience designing, implementing, and maintaining scalable server‑side applications. Passionate about clean code, performance optimization, and collaborative agile environments.
+
+**Technical Skills**  
+Java, Spring Boot, Node.js, Express, PostgreSQL, MongoDB, Redis, Docker, Kubernetes, RESTful APIs, GraphQL, AWS (EC2, S3, RDS), CI/CD (Jenkins, GitHub Actions), Linux, Git, Unit & Integration testing.
+
+**Professional Experience**  
+
+**TechNova Solutions** – Backend Engineer (Jan 2022 – Present)  
+Led a team of 4 developers to refactor a monolithic billing system into microservices, reducing response time by 35%. Implemented event‑driven architecture using Kafka and integrated third‑party payment gateways. Designed automated deployment pipelines with Docker and Kubernetes.
+
+**InfoPulse Labs** – Software Engineer (Jul 2020 – Dec 2021)  
+Developed RESTful APIs for a high‑traffic e‑commerce platform handling 2M+ daily requests. Optimized database queries and introduced caching with Redis, achieving a 20% reduction in latency. Collaborated with front‑end and QA teams in Scrum ceremonies.
+
+**ByteBridge Technologies** – Junior Backend Developer (Jun 2018 – Jun 2020)  
+Contributed to backend modules in Java Spring, built CRUD services, and wrote unit tests achieving 85% coverage. Assisted in migration from legacy PHP services to modern Node.js APIs.
+
+**Education**  
+
+Bachelor of Technology in Computer Science, Indian Institute of Technology (2014 – 2018)  
+
+---

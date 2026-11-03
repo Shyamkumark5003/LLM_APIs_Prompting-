@@ -1,0 +1,39 @@
+Arjun Kumar Sharma
+Coimbatore, Tamil Nadu, India
+Phone: +91-98765-43210
+Email: arjun.sharma@example.com
+
+Objective
+Enthusiastic recent graduate seeking a Support Engineer role where I can apply strong troubleshooting abilities, customer‑service focus, and technical knowledge to resolve client issues efficiently.
+
+Skills
+- Operating Systems: Windows 10/11, Linux (Ubuntu, CentOS)  
+- Networking: TCP/IP, DNS, DHCP, VPN configuration  
+- Ticketing Tools: Jira Service Management, Zendesk, Freshdesk  
+- Remote Support: TeamViewer, AnyDesk, SSH  
+- Scripting: Bash, basic Python for automation  
+- Soft Skills: Clear communication, patience, problem‑solving, teamwork  
+
+Experience
+Technical Support Intern, TechSolutions Pvt Ltd – Coimbatore  
+Jan 2023 – Jun 2023  
+• Handled 30+ daily tickets, diagnosing hardware/software issues on desktops and laptops.  
+• Assisted senior engineers in deploying Windows images and applying patches.  
+• Documented solutions in the knowledge base, reducing repeat queries by 12%.
+
+Help Desk Associate (Part‑time), DigiHelp Services – Coimbatore  
+Jul 2023 – Dec 2023  
+• Provided first‑line support via phone and chat for SaaS products, achieving 95% satisfaction score.  
+• Escalated complex incidents to Tier‑2 while maintaining accurate logs.  
+• Conducted user onboarding sessions and created quick‑start guides.
+
+Education
+B.Tech., Computer Science and Engineering – PSG College of Technology, Coimbatore  
+Graduated: May 2024  
+Relevant Coursework: Operating Systems, Computer Networks, Data Structures, IT Service Management.  
+
+Certifications
+- CompTIA IT Fundamentals (ITF+) – 2023  
+- Google IT Support Professional Certificate – 2023  
+
+References available upon request.

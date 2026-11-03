@@ -1,0 +1,30 @@
+Name: Arjun Kumar Reddy  
+Phone: +91 98765 43210  
+Email: arjun.kumar@example.com  
+Location: Chennai, Tamil Nadu, India  
+
+Professional Summary  
+Backend Developer with 3 years of experience building scalable micro‑services and REST APIs using Java, Spring Boot, and Node.js. Strong focus on performance optimization, database design, and CI/CD pipelines. Proven ability to collaborate with cross‑functional teams in Agile environments.
+
+Technical Skills  
+- Languages: Java, JavaScript (Node.js), Python, SQL, Bash  
+- Frameworks: Spring Boot, Express.js, Hibernate, Flask  
+- Databases: MySQL, PostgreSQL, MongoDB, Redis  
+- Cloud & DevOps: AWS (EC2, RDS, S3), Docker, Kubernetes, Jenkins, GitLab CI  
+- Tools: Git, Maven, Gradle, Postman, JIRA, Confluence  
+
+Professional Experience  
+
+Backend Engineer – TechNova Solutions, Chennai  
+June 2022 – Present  
+- Designed and implemented micro‑service architecture for an e‑commerce platform handling 2M+ daily requests.  
+- Optimized database queries, reducing average response time by 35%.  
+- Integrated AWS SQS and SNS for asynchronous processing and event‑driven communication.  
+
+Junior Backend Developer – Innovatech Labs, Chennai  
+July 2021 – May 2022  
+- Developed RESTful APIs in Spring Boot for a fintech application, supporting real‑time transaction processing.  
+- Implemented unit and integration testing with JUnit and Mockito, achieving 90% code coverage.  
+- Assisted in migration from monolithic to containerized deployment using Docker and Kubernetes.  
+
+--- End of CV ---

@@ -1,0 +1,25 @@
+Arjun Kumar Patel  
+Coimbatore, Tamil Nadu, India  
+Phone: +91-9876543210  
+Email: arjun.kumar@example.com  
+
+A diligent Full Stack Developer with nearly two years of hands‑on experience building responsive web applications. Passionate about clean code, agile practices, and delivering user‑centric solutions that scale.  
+
+**Technical Skills**  
+JavaScript, TypeScript, React, Redux, Node.js, Express, MongoDB, MySQL, RESTful APIs, GraphQL, Git, Docker, AWS (EC2, S3, Lambda), CI/CD pipelines, Jest, Agile/Scrum.  
+
+**Professional Experience**  
+
+**TechNova Solutions** – Coimbatore  
+*Full Stack Developer* | Jan 2023 – Present  
+- Designed and implemented a SaaS dashboard using React, Redux, and Node.js, reducing client onboarding time by 30%.  
+- Integrated third‑party payment gateways and built secure authentication with JWT and OAuth2.  
+- Optimized backend queries, achieving a 25% performance boost and handling 10k+ concurrent users.  
+
+**ByteWave Labs** – Coimbatore  
+*Junior Full Stack Engineer* | Jun 2022 – Dec 2022  
+- Developed e‑commerce microservices in Node.js and Express, interfacing with MongoDB and Redis.  
+- Created reusable UI components in React, improving code reuse across the product suite.  
+- Assisted in Dockerizing applications and deploying them on AWS ECS, streamlining release cycles.  
+
+Enthusiastic about continuous learning, I regularly contribute to open‑source projects and stay updated with emerging web technologies.

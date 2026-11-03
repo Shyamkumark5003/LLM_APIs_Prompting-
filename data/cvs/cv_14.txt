@@ -1,0 +1,29 @@
+Name: Arjun Mehra
+Phone: +91 9876543210
+Email: arjun.mehra@example.com
+Location: Chennai
+Title: Backend Developer
+
+Summary
+Dedicated backend developer with one year of professional experience in designing, developing, and maintaining scalable web services. Strong background in Python, Django, and cloud-based infrastructure.
+
+Skills
+Python | Django | REST APIs | PostgreSQL | Docker | AWS (Lambda, S3, RDS) | Git | Unit Testing
+
+Experience
+
+Backend Developer, TechNova Solutions, Chennai
+Jan 2023 – Dec 2023
+- Designed and optimized RESTful APIs, boosting response times by 30 %.
+- Collaborated with front‑end team to integrate GraphQL endpoints.
+- Deployed services on AWS EC2 using Docker.
+
+Junior Backend Engineer, CodeCraft Pvt. Ltd., Chennai
+Jan 2022 – Dec 2022
+- Built microservices in Django, managed PostgreSQL schemas.
+- Implemented CI/CD pipelines with GitHub Actions.
+- Wrote comprehensive unit tests covering 85 % of code base.
+
+Education
+
+B.Tech

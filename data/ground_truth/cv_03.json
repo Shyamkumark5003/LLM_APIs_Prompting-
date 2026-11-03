@@ -1,0 +1,28 @@
+{
+  "name": "Arjun Kumar Sharma",
+  "email": "arjun.sharma@example.com",
+  "phone": "+91-98765-43210",
+  "location": "Coimbatore, Tamil Nadu, India",
+  "skills": [
+    "Windows 10/11",
+    "Linux",
+    "TCP/IP",
+    "DNS",
+    "DHCP",
+    "VPN configuration",
+    "Jira Service Management",
+    "Zendesk",
+    "Freshdesk",
+    "TeamViewer",
+    "AnyDesk",
+    "SSH",
+    "Bash",
+    "Python",
+    "Clear communication",
+    "patience",
+    "problem-solving",
+    "teamwork"
+  ],
+  "education": "B.Tech., Computer Science and Engineering, PSG College of Technology",
+  "total_years_experience": null
+}

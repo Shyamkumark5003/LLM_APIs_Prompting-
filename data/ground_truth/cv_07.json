@@ -1,0 +1,24 @@
+{
+  "name": "Arjun Mehta",
+  "email": "arjun.mehta@example.com",
+  "phone": "+91-9876543210",
+  "location": "Bengaluru, Karnataka, India",
+  "skills": [
+    "HTML5",
+    "CSS3",
+    "SCSS",
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Redux",
+    "Next.js",
+    "Responsive & Mobile-First Design",
+    "Git",
+    "GitHub",
+    "CI/CD",
+    "UI/UX",
+    "Figma"
+  ],
+  "education": "B.Tech Computer Science, Bangalore Institute of Technology",
+  "total_years_experience": null
+}

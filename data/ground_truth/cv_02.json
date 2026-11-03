@@ -1,0 +1,30 @@
+{
+  "name": "Arjun Mehta",
+  "email": "arjun.mehta@example.com",
+  "phone": "+91-9876543210",
+  "location": "Mumbai, India",
+  "skills": [
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "Jenkins",
+    "GitHub Actions",
+    "Argo CD",
+    "Terraform",
+    "CloudFormation",
+    "Ansible",
+    "Bash",
+    "Python",
+    "PowerShell",
+    "Prometheus",
+    "Grafana",
+    "ELK stack",
+    "Git",
+    "GitLab",
+    "Linux administration",
+    "networking basics",
+    "security best practices"
+  ],
+  "education": null,
+  "total_years_experience": 1.0
+}

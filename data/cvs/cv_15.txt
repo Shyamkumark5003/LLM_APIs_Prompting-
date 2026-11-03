@@ -1,0 +1,26 @@
+Arjun Rao  
+Hyderabad, India  
+Phone: +91‑9876543210  
+Email: arjun.rao@example.com  
+
+Professional Summary  
+SAP ABAP Developer with eight years of hands‑on experience designing, developing, and supporting enterprise‑level SAP solutions. Proven ability to deliver high‑quality code, optimize performance, and collaborate across functional teams in fast‑paced environments.
+
+Key Skills  
+SAP ABAP, ABAP OOPs, BAPI, IDoc, ALE, RFC, SAP NetWeaver, SAP UI5 basics, Fiori, SAP HANA modeling, SQL & data migration, performance tuning, ALV reporting, Agile/Scrum, Git version control.
+
+Professional Experience  
+
+Infosys Ltd., Hyderabad – SAP ABAP Consultant (June 2018 – Present)  
+Lead developer for multiple R/3 and S/4HANA migration projects. Designed custom BAPIs, enhanced IDoc processing, and built reusable function modules. Mentored junior developers and coordinated with functional consultants to translate business requirements into technical specifications.
+
+TechMahindra Solutions, Hyderabad – ABAP Developer (July 2015 – May 2018)  
+Developed end‑to‑end enhancements for SAP ECC modules, including MM and SD. Implemented ALV reports, user exits, and batch input programs. Contributed to data migration using LSMW and BDC, achieving a 15% reduction in processing time.
+
+Education  
+B.E. Computer Science, Osmania University, Hyderabad – 2015  
+
+Certifications  
+SAP Certified Development Associate – ABAP with SAP NetWeaver 7.50  
+
+References available upon request.

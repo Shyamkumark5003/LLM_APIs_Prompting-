@@ -1,0 +1,23 @@
+{
+  "name": "Arun Kumar Singh",
+  "email": "arunkumar.singh@example.com",
+  "phone": "+91-98765-43210",
+  "location": "Hyderabad, India",
+  "skills": [
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "GitHub Actions",
+    "Jenkins",
+    "Bash",
+    "Python",
+    "Ansible",
+    "Prometheus",
+    "Grafana",
+    "Linux",
+    "Git",
+    "GitHub"
+  ],
+  "education": "B.Tech. Computer Science & Engineering, Osmania University",
+  "total_years_experience": null
+}

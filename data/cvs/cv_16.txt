@@ -1,0 +1,32 @@
+CONTACT INFORMATION
+Name: Arjun Patel
+Email: arjun.patel@example.com
+Phone: +91-9876543210
+Location: Mumbai, India
+
+PROFESSIONAL SUMMARY
+ML Engineer with 1 year of hands‑on experience delivering end‑to‑end machine learning solutions for e‑commerce and finance domains. Skilled in model development, deployment, and performance monitoring. Passionate about leveraging data to drive business decisions.
+
+SKILLS
+- Programming: Python, SQL, Bash
+- ML Frameworks: PyTorch, TensorFlow, scikit‑learn
+- Tools & Platforms: Docker, Kubernetes, AWS SageMaker, Git, Jupyter
+- Data Engineering: Pandas, NumPy, Spark
+- DevOps: CI/CD pipelines, Terraform, CloudWatch
+
+EXPERIENCE
+DataCrest – ML Engineer | Jul 2023 – Dec 2023
+- Built a recommendation engine that increased upsell revenue by 12% using collaborative filtering and deep learning.
+- Designed and deployed models to SageMaker with automated A/B testing and drift monitoring.
+- Collaborated with data engineers to set up feature pipelines and real‑time inference endpoints.
+
+TechSolutions – ML Intern | Jan 2023 – Jun 2023
+- Developed a fraud detection model achieving 94% precision on transaction data.
+- Created data preprocessing pipelines and visualized insights using Tableau.
+- Automated model retraining scripts, reducing cycle time from 3 days to 6 hours.
+
+PROJECTS
+- Real‑time sentiment analysis dashboard for social media feeds (GitHub link).
+
+REFERENCES
+Available upon request.

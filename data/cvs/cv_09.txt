@@ -1,0 +1,33 @@
+Name: Arjun Kumar Rao
+Phone: +91-98765-43210
+Location: Chennai, Tamil Nadu, India
+
+Professional Summary
+Backend Developer with 3 years of experience designing, implementing, and maintaining scalable server‑side applications. Proficient in Java, Node.js, and Python, with a strong focus on RESTful APIs, database optimization, and cloud deployment. Adept at collaborating with cross‑functional teams to deliver high‑quality software on schedule.
+
+Technical Skills
+- Languages: Java, JavaScript (Node.js), Python, SQL, Bash
+- Frameworks: Spring Boot, Express.js, Django
+- Databases: MySQL, PostgreSQL, MongoDB
+- Tools & Platforms: Docker, Kubernetes, AWS (EC2, RDS, Lambda), Git, Jenkins, Maven
+- Concepts: Microservices, CI/CD, Test‑Driven Development, API design, Performance tuning
+
+Professional Experience
+Backend Engineer – TechWave Solutions, Chennai
+Jan 2022 – Present (2 years 4 months)
+- Developed and maintained microservice architecture for e‑commerce platform handling 2M+ daily transactions.
+- Optimized database queries, reducing response times by 35%.
+- Implemented CI/CD pipelines using Jenkins and Docker, cutting deployment time by 50%.
+
+Junior Backend Developer – Infotech Labs, Chennai
+Jun 2020 – Dec 2021 (1 year 7 months)
+- Built RESTful APIs in Spring Boot for a fintech application, supporting secure payment processing.
+- Integrated third‑party services (payment gateways, SMS OTP) and wrote unit/integration tests achieving 85% coverage.
+- Assisted in migration from monolith to containerized services on AWS.
+
+Education
+Bachelor of Technology in Computer Science Engineering
+Anna University, Chennai – 2019
+CGPA: 8.4/10
+
+--- End of CV ---

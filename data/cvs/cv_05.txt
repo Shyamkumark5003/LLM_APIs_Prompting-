@@ -1,0 +1,28 @@
+Arjun Mehta  
+Coimbatore, Tamil Nadu, India  
+Phone: +91-98765-43210  
+Email: arjun.mehta@example.com  
+
+Aspiring Full Stack Developer with a solid foundation in computer science and a passion for building responsive web applications. Recent graduate eager to apply academic knowledge and internship experience to real‑world projects in a collaborative environment.  
+
+Technical Skills  
+- Front‑end: HTML5, CSS3, JavaScript, React, Bootstrap  
+- Back‑end: Node.js, Express, Python (Flask), RESTful APIs  
+- Databases: MySQL, MongoDB  
+- Tools: Git, Docker, VS Code, Postman, AWS basics  
+
+Professional Experience  
+
+Web Development Intern – TechNova Solutions, Coimbatore  
+June 2023 – August 2023 (3 months)  
+Contributed to a customer portal by implementing React components and integrating them with Node.js services. Fixed bugs, wrote unit tests, and participated in daily stand‑ups.  
+
+Junior Full Stack Developer – PixelCraft Labs, Coimbatore  
+September 2023 – Present (6 months)  
+Working on an e‑commerce platform, handling UI enhancements, API development, and database schema design. Collaborated with senior developers to adopt CI/CD pipelines and improve code quality.  
+
+Projects (personal)  
+- “TaskFlow” – a task‑management web app using MERN stack, deployed on Heroku.  
+- “RecipeHub” – a Flask‑based site for sharing recipes, featuring user authentication and image uploads.  
+
+Enthusiastic about learning new technologies and delivering clean, maintainable code. Ready to contribute to dynamic development teams.

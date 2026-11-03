@@ -1,0 +1,36 @@
+Rajesh Kumar Singh  
+Pune, Maharashtra, India | +91-9876543210 | rajesh.singh@example.com  
+
+Professional Summary  
+Enthusiastic DevOps Engineer with 1 year of hands‑on experience designing, implementing, and maintaining CI/CD pipelines and cloud infrastructure. Strong background in automation, container orchestration, and performance monitoring, focused on reliability and scalability.
+
+Technical Skills  
+- CI/CD: Jenkins, GitHub Actions, GitLab CI  
+- Containers: Docker, Kubernetes (EKS)  
+- Cloud: AWS (EC2, S3, RDS, IAM), Terraform IaC  
+- Scripting: Bash, Python  
+- Monitoring: Prometheus, Grafana, ELK stack  
+- Version control: Git, Bitbucket  
+- Configuration mgmt: Ansible, Helm  
+
+Professional Experience  
+
+DevOps Engineer, TechNova Solutions, Pune  
+Jan 2023 – Present (12 months)  
+- Built end‑to‑end CI/CD pipelines for micro‑service applications, reducing deployment time by 40%.  
+- Migrated legacy workloads to AWS using Terraform, achieving cost savings of ~15%.  
+- Implemented Kubernetes clusters on EKS; automated scaling and self‑healing.  
+- Set up centralized logging and monitoring, decreasing MTTR by 30%.  
+
+Cloud Intern, Cloudify Labs, Pune  
+Jun 2022 – Dec 2022 (7 months)  
+- Assisted in scripting automated backups and recovery for RDS databases.  
+- Developed Dockerfiles for development environments; integrated with Jenkins.  
+- Participated in on‑call rotation, handling alerts via Prometheus‑Grafana.  
+
+Education  
+
+B.Tech Computer Science, Pune University, 2022  
+- Relevant coursework: Operating Systems, Distributed Systems, Cloud Computing.  
+
+---

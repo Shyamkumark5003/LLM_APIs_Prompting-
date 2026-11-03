@@ -1,0 +1,26 @@
+{
+  "name": "Arjun Mehta",
+  "email": "arjun.mehta@example.com",
+  "phone": "+91-98765-43210",
+  "location": "Coimbatore, Tamil Nadu, India",
+  "skills": [
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "React",
+    "Bootstrap",
+    "Node.js",
+    "Express",
+    "Python",
+    "RESTful APIs",
+    "MySQL",
+    "MongoDB",
+    "Git",
+    "Docker",
+    "VS Code",
+    "Postman",
+    "AWS"
+  ],
+  "education": null,
+  "total_years_experience": null
+}

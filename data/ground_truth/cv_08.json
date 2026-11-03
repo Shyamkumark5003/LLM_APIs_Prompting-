@@ -1,0 +1,29 @@
+{
+  "name": "Arjun Patel",
+  "email": "arjun.patel@example.com",
+  "phone": "+91-9876543210",
+  "location": "Bengaluru, Karnataka, India",
+  "skills": [
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Redux",
+    "Next.js",
+    "Bootstrap",
+    "Tailwind CSS",
+    "Git",
+    "npm",
+    "Webpack",
+    "VS Code",
+    "Figma",
+    "Jest",
+    "React Testing Library",
+    "Responsive design",
+    "REST API integration",
+    "Agile/Scrum"
+  ],
+  "education": "Bachelor of Technology in Computer Science Engineering, Visvesvaraya Technological University",
+  "total_years_experience": 1.0
+}

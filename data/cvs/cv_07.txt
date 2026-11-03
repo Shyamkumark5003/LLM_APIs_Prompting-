@@ -1,0 +1,40 @@
+Arjun Mehta  
+Phone: +91-9876543210  
+Email: arjun.mehta@example.com  
+Location: Bengaluru, Karnataka, India  
+
+Professional Summary  
+Enthusiastic Frontend Developer with hands‑on experience building responsive web interfaces using modern JavaScript frameworks. Quick learner eager to contribute to dynamic teams and deliver pixel‑perfect UI solutions.
+
+Skills  
+- HTML5, CSS3, SCSS  
+- JavaScript (ES6+), TypeScript  
+- React, Redux, Next.js  
+- Responsive & Mobile‑First Design  
+- Git, GitHub, CI/CD basics  
+- UI/UX fundamentals, Figma basics  
+
+Experience  
+
+PixelCraft Ltd. – Bengaluru  
+Junior Frontend Developer (Part‑time) | Oct 2023 – Present  
+- Developed and maintained UI components for SaaS dashboard using React and TypeScript.  
+- Implemented responsive layouts, improving mobile usability scores by 22%.  
+- Collaborated with designers via Figma to translate wireframes into functional pages.  
+
+TechNova Solutions – Bengaluru  
+Frontend Intern | Jun 2023 – Aug 2023  
+- Built reusable UI widgets for internal tools with HTML, CSS, and vanilla JavaScript.  
+- Optimized page load times by 15% through lazy loading and code splitting.  
+- Wrote unit tests with Jest, achieving 85% coverage on frontend modules.  
+
+Education  
+
+B.Tech Computer Science, Bangalore Institute of Technology  
+2022 – Expected 2026  
+- Relevant coursework: Web Development, Data Structures, Human‑Computer Interaction.  
+- Final year project: “Real‑time Collaborative Whiteboard” using React, Socket.io, and Node.js.  
+
+---  
+
+References available upon request.

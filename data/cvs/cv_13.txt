@@ -1,0 +1,37 @@
+Rahul Mehta  
+Mumbai, Maharashtra, India  
+Phone: +91 98765 43210  
+Email: rahul.mehta@example.com  
+
+**Professional Summary**  
+Recent Computer Science graduate with a solid foundation in server‑side development, database design, and API integration. Passionate about building scalable backend systems using modern frameworks and best coding practices. Quick learner, collaborative team player, and eager to contribute to innovative projects.
+
+**Technical Skills**  
+- Languages: Java, Python, JavaScript (Node.js)  
+- Frameworks: Spring Boot, Express.js, Django (basic)  
+- Databases: MySQL, PostgreSQL, MongoDB  
+- Tools: Git, Docker, Postman, Jenkins (CI basics)  
+- Cloud: AWS EC2, S3 (fundamentals)  
+
+**Professional Experience**  
+
+Junior Backend Engineer – TechNova Solutions, Mumbai  
+June 2023 – Present (6 months)  
+Assisted senior developers in designing RESTful APIs for e‑commerce platform. Implemented CRUD endpoints, wrote unit tests, and optimized SQL queries, improving response time by 15%.
+
+Intern – DataPulse Analytics, Pune  
+January 2023 – May 2023 (5 months)  
+Developed Python scripts for data extraction and transformation. Created automated reports and contributed to the migration of legacy scripts to a Flask microservice architecture.
+
+**Education**  
+
+B.Tech. Computer Science and Engineering, University of Mumbai  
+Graduated: May 2023  
+- CGPA: 8.6/10  
+- Relevant coursework: Data Structures, Algorithms, Distributed Systems, Cloud Computing  
+
+**Projects**  
+- **BookHub API**: Built a Spring Boot microservice for a book recommendation system; integrated with PostgreSQL and Redis caching.  
+- **TaskManager**: Developed a Node.js backend with JWT authentication for a task‑tracking web app; deployed on AWS EC2.  
+
+References available upon request.

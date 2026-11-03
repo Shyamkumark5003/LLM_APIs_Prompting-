@@ -1,0 +1,28 @@
+{
+  "name": "Rahul Mehta",
+  "email": "rahul.mehta@example.com",
+  "phone": "+91-9876543210",
+  "location": "Mumbai, India",
+  "skills": [
+    "Java",
+    "Python",
+    "SQL",
+    "Spring Boot",
+    "Hibernate",
+    "Flask",
+    "RESTful services",
+    "GraphQL basics",
+    "MySQL",
+    "PostgreSQL",
+    "Git",
+    "Docker",
+    "Maven",
+    "Jenkins",
+    "Linux",
+    "Windows",
+    "Agile/Scrum",
+    "Test-Driven Development"
+  ],
+  "education": "B.Tech. in Computer Science and Engineering, University of Mumbai",
+  "total_years_experience": null
+}

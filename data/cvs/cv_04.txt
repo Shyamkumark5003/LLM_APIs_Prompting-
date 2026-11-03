@@ -1,0 +1,28 @@
+Aarav Mehta  
+Phone: +91-9876543210  
+Email: aarav.mehta@example.com  
+City: Bengaluru  
+
+Aspiring QA Engineer with a solid foundation in software testing principles gained through academic projects and short‑term internships. Adept at identifying defects, creating test cases, and collaborating with development teams to ensure product quality. Eager to contribute to a dynamic testing environment and grow technical expertise.
+
+**Skills**  
+- Manual testing, test case design, defect tracking (Jira)  
+- Basic automation using Selenium WebDriver (Java)  
+- API testing with Postman, understanding of REST principles  
+- Familiar with Agile/Scrum workflow, version control (Git)  
+- Strong analytical thinking and communication  
+
+**Experience**  
+
+QA Intern – TechNova Solutions (Jan 2024 – Mar 2024)  
+Assisted senior QA engineers in drafting functional test cases for a web‑based CRM. Executed regression cycles, logged defects, and participated in daily stand‑ups. Gained exposure to CI pipelines and test data management.
+
+Part‑Time QA Tester – InnoSoft Labs (Jun 2023 – Aug 2023)  
+Performed manual testing on a mobile health‑app prototype, validating user flows across Android devices. Produced concise bug reports and suggested UI improvements that were adopted in the next release.
+
+**Education**  
+
+B.Tech, Computer Science, XYZ University, 2023  
+Relevant coursework: Software Testing, Data Structures, Object‑Oriented Programming, Database Management.  
+
+Enthusiastic about applying testing best practices to deliver reliable software solutions.

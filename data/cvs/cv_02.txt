@@ -1,0 +1,32 @@
+Arjun Mehta  
+Email: arjun.mehta@example.com  
+Phone: +91-9876543210  
+Location: Mumbai, India  
+
+Professional Summary  
+• DevOps Engineer with 1 year of hands‑on experience building CI/CD pipelines, automating infrastructure, and ensuring high‑availability services in fast‑paced startup environments.  
+
+Key Skills  
+• Cloud platforms: AWS (EC2, S3, RDS, Lambda)  
+• Containerization: Docker, Kubernetes (EKS)  
+• CI/CD: Jenkins, GitHub Actions, Argo CD  
+• IaC: Terraform, CloudFormation, Ansible  
+• Scripting: Bash, Python, PowerShell  
+• Monitoring & logging: Prometheus, Grafana, ELK stack  
+• Version control: Git, GitLab  
+• Linux administration, networking basics, security best practices  
+
+Professional Experience  
+
+DevOps Engineer – TechNova Solutions, Mumbai (Jan 2023 – Present)  
+- Designed and deployed a fully automated CI/CD pipeline using Jenkins and GitHub Actions, cutting release cycle time by 45%.  
+- Migrated monolithic applications to Docker containers and orchestrated them on Amazon EKS, improving scalability.  
+- Implemented Terraform scripts for AWS infrastructure, enabling reproducible environments and reducing manual errors.  
+- Set up Prometheus‑Grafana monitoring and centralized logging with ELK, achieving 99.9% service uptime.  
+
+Junior System Administrator – ByteWave Pvt Ltd, Mumbai (Jun 2022 – Dec 2022)  
+- Managed Linux servers (Ubuntu, CentOS) and performed routine patching and backup tasks.  
+- Automated routine tasks with Bash and Python scripts, saving ~15 hours/week.  
+- Assisted in the rollout of a Docker‑based development environment for the engineering team.  
+
+References available upon request.

@@ -1,0 +1,37 @@
+Arun Kumar Singh
+Phone: +91-9876543210
+Email: arunkumar@example.com
+
+Professional Summary
+Dynamic Support Engineer with 3 years of experience delivering high‑quality technical assistance in fast‑paced SaaS environments. Proven ability to troubleshoot complex issues, improve ticket resolution times, and enhance customer satisfaction.
+
+Technical Skills
+- Operating Systems: Windows, Linux (Ubuntu, RHEL)
+- Networking: TCP/IP, DNS, VPN, firewalls
+- Tools: Jira, ServiceNow, Zendesk, Splunk, Git
+- Scripting: Bash, Python (automation scripts)
+- Databases: MySQL, PostgreSQL
+- Cloud: AWS (EC2, S3, CloudWatch)
+- Soft Skills: Communication, Incident Management, Documentation, Team Collaboration
+
+Professional Experience
+Support Engineer, TechNova Solutions – Jan 2022 to Present
+- Managed 1st‑ and 2nd‑level support for 200+ enterprise clients, achieving 95% SLA compliance.
+- Developed knowledge‑base articles reducing repeat tickets by 18%.
+- Automated routine diagnostics with Python scripts, cutting average resolution time from 45 min to 28 min.
+
+Junior Support Engineer, Infotech Labs – Jul 2020 to Dec 2021
+- Handled inbound/outbound tickets via ServiceNow, resolved 85% of issues on first contact.
+- Assisted in migration of legacy systems to AWS, providing post‑migration support.
+- Conducted weekly training sessions for new hires on troubleshooting workflows.
+
+Education
+B.Tech. Computer Science Engineering, Indian Institute of Technology – 2016 to 2020
+- CGPA: 8.4/10
+- Relevant Projects: Automated Log Analyzer (Python, ELK Stack)
+
+Certifications
+- AWS Certified Cloud Practitioner
+- ITIL Foundation v4
+
+References available upon request.

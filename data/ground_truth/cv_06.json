@@ -1,0 +1,30 @@
+{
+  "name": "Arun Kumar Singh",
+  "email": "arunkumar@example.com",
+  "phone": "+91-9876543210",
+  "location": null,
+  "skills": [
+    "Windows",
+    "Linux",
+    "TCP/IP",
+    "DNS",
+    "VPN",
+    "firewalls",
+    "Jira",
+    "ServiceNow",
+    "Zendesk",
+    "Splunk",
+    "Git",
+    "Bash",
+    "Python",
+    "MySQL",
+    "PostgreSQL",
+    "AWS",
+    "Communication",
+    "Incident Management",
+    "Documentation",
+    "Team Collaboration"
+  ],
+  "education": "B.Tech. Computer Science Engineering, Indian Institute of Technology",
+  "total_years_experience": 3.0
+}

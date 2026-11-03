@@ -1,0 +1,36 @@
+Arjun Patel  
+Email: arjun.patel@example.com  
+Phone: +91-9876543210  
+Location: Bengaluru, Karnataka, India  
+
+PROFESSIONAL SUMMARY  
+Enthusiastic Frontend Developer with 1 year of hands‑on experience building responsive web applications. Strong eye for UI/UX, proficient in modern JavaScript frameworks, and adept at collaborating with cross‑functional teams to deliver high‑quality code on time.
+
+SKILLS  
+- Languages: HTML5, CSS3, JavaScript (ES6+), TypeScript  
+- Frameworks/Libraries: React, Redux, Next.js, Bootstrap, Tailwind CSS  
+- Tools: Git, npm, Webpack, VS Code, Figma  
+- Testing: Jest, React Testing Library  
+- Practices: Responsive design, REST API integration, Agile/Scrum  
+
+EXPERIENCE  
+
+Frontend Engineer – TechNova Solutions, Bengaluru  
+June 2023 – Present (10 months)  
+- Developed and maintained customer‑facing dashboards using React and Redux, improving load speed by 25 %.  
+- Implemented component library with Storybook, enabling faster UI prototyping.  
+- Collaborated with designers to translate Figma mockups into pixel‑perfect interfaces.  
+
+Junior UI Developer – DigiWave Labs, Bengaluru  
+Jan 2023 – May 2023 (5 months)  
+- Built landing pages and marketing microsites with HTML, CSS, and JavaScript.  
+- Optimized assets and applied lazy loading, reducing page weight by 30 %.  
+- Participated in daily stand‑ups and sprint planning within a Scrum team.  
+
+EDUCATION  
+
+Bachelor of Technology in Computer Science Engineering  
+Visvesvaraya Technological University, Bangalore  
+Graduated: 2022  
+
+---
